@@ -6,7 +6,7 @@
     display: none;
     cursor: pointer;
     position: fixed;
-    bottom: 70px;
+    bottom: 50px;
     right: 25px;
     border-radius: 28px;
     padding-top: 10px;
@@ -40,7 +40,7 @@
 
 
  .popup{
-    bottom: 100px;
+    bottom: 80px;
     right: 10px;
     height: 450px;
     width: 350px;
