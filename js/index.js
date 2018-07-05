@@ -184,7 +184,7 @@ $(window).scroll(function () {
 $(document).ready(function () {
     $("#b2c").click(function (event) {
         event.preventDefault();
-       $("#back2Top").hide();
+       $("#bat").hide();
         $("#b2c").hide();
         return false;
     });
